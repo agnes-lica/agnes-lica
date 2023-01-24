@@ -24,16 +24,16 @@
 
  <table align="center">
   <tr>
-    <td><a href="https://github.com/agnes-lica/Deviews-Python"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Deviews-Python&theme=onedark" /><a/></td>
-    <td><a href="https://github.com/agnes-lica/linkedev"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=linkedev&theme=onedark"/><a/></td>
+    <td><a href="https://github.com/agnes-lica/Deviews-Python"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=agnes-lica&repo=Deviews-Python&theme=onedark" /><a/></td>
+    <td><a href="https://github.com/agnes-lica/linkedev"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=agnes-lica&repo=linkedev&theme=onedark"/><a/></td>
   </tr>
   <tr>
-     <td><a href="https://github.com/agnes-lica/petVida-Typescript"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=petVida-Typescript&theme=onedark" /><a/></td>
-    <td><a href="https://github.com/agnes-lica/Acesso-de-usuario-React-JS"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Acesso-de-usuario-React-JS&theme=onedark"/><a/></td>
+     <td><a href="https://github.com/agnes-lica/petVida-Typescript"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=agnes-lica&repo=petVida-Typescript&theme=onedark" /><a/></td>
+    <td><a href="https://github.com/agnes-lica/Acesso-de-usuario-React-JS"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=agnes-lica&repo=Acesso-de-usuario-React-JS&theme=onedark"/><a/></td>
   </tr>
   <tr>
-     <td><a href="https://github.com/agnes-lica/Bandkamp-Python"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Bandkamp-Python&theme=onedark" /><a/></td>
-    <td><a href="https://github.com/agnes-lica/Lista-produtos-JS-CSS"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Lista-produtos-JS-CSS&theme=onedark"/><a/></td>
+     <td><a href="https://github.com/agnes-lica/Bandkamp-Python"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=agnes-lica&repo=Bandkamp-Python&theme=onedark" /><a/></td>
+    <td><a href="https://github.com/agnes-lica/Lista-produtos-JS-CSS"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin?username=agnes-lica&repo=Lista-produtos-JS-CSS&theme=onedark"/><a/></td>
    </tr>
 </table>
  
