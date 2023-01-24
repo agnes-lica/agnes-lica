@@ -22,15 +22,23 @@
 
 <h1 align=center>The best repos</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Deviews-Python&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=linkedev&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=petVida-Typescript&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Bandkamp-Python&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Lista-produtos-JS-CSS&theme=onedark&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Acesso-de-usuario-React-JS&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+ <table align="center">
+  <tr>
+    <td><a href="https://github.com/agnes-lica/Deviews-Python"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Deviews-Python&theme=onedark" /><a/></td>
+    <td><a href="https://github.com/agnes-lica/linkedev"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=linkedev&theme=onedark"/><a/></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/agnes-lica/petVida-Typescript"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=petVida-Typescript&theme=onedark" /><a/></td>
+    <td><a href="https://github.com/agnes-lica/Acesso-de-usuario-React-JS"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Acesso-de-usuario-React-JS&theme=onedark"/><a/></td>
+  </tr>
+  <tr>
+     <td><a href="https://github.com/agnes-lica/Bandkamp-Python"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Bandkamp-Python&theme=onedark" /><a/></td>
+    <td><a href="https://github.com/agnes-lica/Lista-produtos-JS-CSS"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Lista-produtos-JS-CSS&theme=onedark"/><a/></td>
+   </tr>
+</table>
  
  <h4 align="center">Talk to me on linkedin!</h4>
 <p align="center">
 <a href="https://linkedin.com/in/agnesmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnesmr" height="30" width="40" /></a>
 </p>
-
-<a href="https://github.com/agnes-lica/Deviews-Python"> <img src="https://github-readme-stats.vercel.app/api/pin?username=agnes-lica&repo=Deviews-Python&theme=onedark"  /><a/>
+ 
