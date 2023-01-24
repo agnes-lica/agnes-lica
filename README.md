@@ -1,7 +1,7 @@
 <!--
 **agnes-lica/agnes-lica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![MasterHead](file:///home/usuario/Downloads/banner%20(3).png)]([your GitHub link](https://github.com/agnes-lica))
+![]([https://github.com/user/banner.png](https://github.com/agnes-lica/agnes-lica/blob/main/banner%20(3).png))
 
 <h1 align="left">Hello pleasant people! I'm Agnes </h1>
 <h3 align="left">A passionate fullstack developer ready to have the most fun time coding with you! :heart: </h3>
